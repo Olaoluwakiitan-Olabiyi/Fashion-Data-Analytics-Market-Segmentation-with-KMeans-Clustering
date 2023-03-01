@@ -1,1 +1,1 @@
-# Fashion-Data-Analytics-Market-Segmentation-with-KMeans-Clustering
+# Fashion-Data-Analytics-Market-Segmentation-with-KMeans-Clustering![Fashion Market Segmentation](https://user-images.githubusercontent.com/71575857/222194112-3c7b9f92-7636-4b9a-834f-993ee39f47d6.png)
