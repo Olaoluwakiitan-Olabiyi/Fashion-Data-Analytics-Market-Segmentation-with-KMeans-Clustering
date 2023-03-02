@@ -1,11 +1,16 @@
-# Fashion-Data-Analytics-Market-Segmentation-with-KMeans-Clustering![Fashion Market Segmentation](https://user-images.githubusercontent.com/71575857/222194112-3c7b9f92-7636-4b9a-834f-993ee39f47d6.png)
+# Fashion-Data-Analytics-Market-Segmentation-with-KMeans-Clustering![Fashion Market Segmentation]
+
+(https://user-images.githubusercontent.com/71575857/222194112-3c7b9f92-7636-4b9a-834f-993ee39f47d6.png)
 
 
 <b>Aim</b>: The aim of this project is to look at customers in-depth and make a machine-learning model that can put them into groups without being watched.
  
 <b>Application Used</b>: Python Language
+
 <b>About the datasets</b>: The dataset used for this project is a fashion retail dataset from 365 Datascience. It has a total of 31 columns and 3,675 rows.
-<b>Methodology<b>:The first thing I did was check the missing values, confirm the data types, and identify the variables that I will need for this project.
+
+<b>Methodology<b>: The first thing I did was check the missing values, confirm the data types, and identify the variables that I will need for this project.
+  
  - <b>Exploratory Data analysis</b>: After the data cleaning, I did an in-depth data analysis using descriptive statistics, box plots, count plots, scatter plots and pair plots to gain a better understanding of the customer information.
  
 <b>Insights</b>:
@@ -37,7 +42,7 @@ I used the features in the group1 and added some categorical variables ;
  
 <b>Deciding the number of clusters:</b> Elbow Method
  
-<b>Model Evaluation</b>
+<b>Model Evaluation</b>:
 I used sillouette score evaluate the clustering.
  
 <b>Clustering Insights</b>:
@@ -48,4 +53,5 @@ In both gender categories, there is a segment that are at the very bottom <stron
 - Lastly, the <strong>cluster 2</strong> have a bit of spread. They intersect with some members of cluster 2. However, they range from net sales £1500 to nearly £3200 in the female gender. Within the male category, the net sale sis around £2000.
  
 <b>Further Work:</b>
+  
 The next phase of the project will be to do another exploratory data analysis using the clusters/segments and creating a #tableau #dashboard.
