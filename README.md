@@ -1,22 +1,7 @@
 # Fashion-Data-Analytics-Market-Segmentation-with-KMeans-Clustering![Fashion Market Segmentation](https://user-images.githubusercontent.com/71575857/222194112-3c7b9f92-7636-4b9a-834f-993ee39f47d6.png)
 
----
 
-Title
-Aim
-Medium Article/Dashboard Link: 
-Application Used: Python
-About the datasets (rows, columns, list of variables used,ad dscription)
-Methodology : (cleaning analysis, encoding, etc), Features Models
-Insights
-Evaluation 
-Recommendation
-Further Work
-
----
-
-Fashion-Data-Analytics-Market-Segmentation-with-KMeans-Clustering
- Aim: The aim of this project is to look at customers in-depth and make a machine-learning model that can put them into groups without being watched.
+ <b>Aim</b>: The aim of this project is to look at customers in-depth and make a machine-learning model that can put them into groups without being watched.
 Application Used: Python
 About the datasets: The dataset used for this project is a fashion retail dataset from 365 Datascience. It has a total of 31 columns and 3,675 rows..
 Methodology: The first thing I did was check the missing values, confirm the data types, and identify the variables that I will need for this project.
