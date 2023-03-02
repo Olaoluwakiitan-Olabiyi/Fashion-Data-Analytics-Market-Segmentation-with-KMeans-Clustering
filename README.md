@@ -38,10 +38,10 @@ I used the features in the group1 and added some categorical variables ;
 Deciding the number of clusters:
 Elbow Method
  
-Model Evaluation:
+<strong>Model Evaluation:</strong>
 Sillouette score evaluate the clustering.
 
-Clustering Insights:
+<strong>Clustering Insights:</strong>
  
 In both gender categories, there is a segment that are at the very bottom <strong>(cluster 1)</strong>. That is, they often purchase products with lower net sales.
 - Next, cluster 2, with a net sale between £1000- £2500.
