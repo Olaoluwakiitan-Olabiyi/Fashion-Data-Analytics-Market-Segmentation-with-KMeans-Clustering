@@ -4,16 +4,16 @@
 <strong>Aim:</strong> 
 The aim of this project is to look at customers in-depth and make a machine-learning model that can put them into groups without being watched.
  
-<strong>Application Used:</strong>
+<strong>Application Used: </strong>
 Python Language
 
-About the datasets:
+<strong>About the datasets:</strong>
 The dataset used for this project is a fashion retail dataset from 365 Datascience. It has a total of 31 columns and 3,675 rows.
 
-Methodology: 
+<strong>Methodology:</strong>
 The first thing I did was check the missing values, confirm the data types, and identify the variables that I will need for this project.
   
-Exploratory Data analysis: After the data cleaning, I did an in-depth data analysis using descriptive statistics, box plots, count plots, scatter plots and pair plots to gain a better understanding of the customer information. 
+<strong>Exploratory Data Analysis</strong>: After the data cleaning, I did an in-depth data analysis using descriptive statistics, box plots, count plots, scatter plots and pair plots to gain a better understanding of the customer information. 
 
 Please see the notebook for the data insights.
 
