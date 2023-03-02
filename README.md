@@ -2,9 +2,9 @@
 
 
  <b>Aim</b>: The aim of this project is to look at customers in-depth and make a machine-learning model that can put them into groups without being watched.
-Application Used: Python
-About the datasets: The dataset used for this project is a fashion retail dataset from 365 Datascience. It has a total of 31 columns and 3,675 rows..
-Methodology: The first thing I did was check the missing values, confirm the data types, and identify the variables that I will need for this project.
+<b>Application Used</b>: Python Language
+<b>About the datasets</b>: The dataset used for this project is a fashion retail dataset from 365 Datascience. It has a total of 31 columns and 3,675 rows..
+<b>Methodology<b>:The first thing I did was check the missing values, confirm the data types, and identify the variables that I will need for this project.
  - Exploratory Data analysis: After the data cleaning, I did an in-depth data analysis using descriptive statistics, box plots, count plots, scatter plots and pair plots to gain a better understanding of the customer information.
 Insights:
 The minimum ,maximum and averge order per customer is 1,10 and 2 respectively. I addition, order value has a minimum, maximum and average of £144, £1576 and £388 respectively.
