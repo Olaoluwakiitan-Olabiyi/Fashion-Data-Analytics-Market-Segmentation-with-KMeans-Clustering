@@ -45,7 +45,7 @@ I used the features in the group1 and added some categorical variables ;
 Deciding the number of clusters:
 Elbow Method
  
-<strong>Model Evaluation:</strong>
+Model Evaluation:
 Sillouette score evaluate the clustering.
  
 <strong>Clustering Insights:</strong>
