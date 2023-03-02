@@ -3,30 +3,32 @@
 (https://user-images.githubusercontent.com/71575857/222194112-3c7b9f92-7636-4b9a-834f-993ee39f47d6.png)
 
 
-<b>Aim</b>: The aim of this project is to look at customers in-depth and make a machine-learning model that can put them into groups without being watched.
+Aim: 
+The aim of this project is to look at customers in-depth and make a machine-learning model that can put them into groups without being watched.
  
-<b>Application Used</b>: Python Language
+Application Used: 
+Python Language
 
-<b>About the datasets</b>: The dataset used for this project is a fashion retail dataset from 365 Datascience. It has a total of 31 columns and 3,675 rows.
+About the datasets:
+The dataset used for this project is a fashion retail dataset from 365 Datascience. It has a total of 31 columns and 3,675 rows.
 
-<b>Methodology<b>: The first thing I did was check the missing values, confirm the data types, and identify the variables that I will need for this project.
+Methodology: 
+The first thing I did was check the missing values, confirm the data types, and identify the variables that I will need for this project.
   
- - <b>Exploratory Data analysis</b>: After the data cleaning, I did an in-depth data analysis using descriptive statistics, box plots, count plots, scatter plots and pair plots to gain a better understanding of the customer information.
+ - Exploratory Data analysis: After the data cleaning, I did an in-depth data analysis using descriptive statistics, box plots, count plots, scatter plots and pair plots to gain a better understanding of the customer information.
  
-<b>Insights</b>:
- 
+Insights: 
 - The minimum ,maximum and averge order per customer is 1,10 and 2 respectively. I addition, order value has a minimum, maximum and average of £144, £1576 and £388 respectively.
 - 42%(1560) of the customers are betwen the age of 18–24, while 40+ represent only 7% (245)
 - 93% (3399) of K&C customers are females
 - With respect to the product category, Fragrances(731),Apparel(709),Small Leather goods(537),Accessories(514),Sneakers(316) are the top 5 popularly sold producst with a percentage of 20%,19%,15% and 14% respectively.
 - 82% of the customer purchases come from Italy and the top three products by purchases are Fragrance, Apparel and Leather Goods.
  
-<b>Please see the notebook for more insights.</b>
+Please see the notebook for more insights
  
-<b>Clustering</b>:
- 
+Clustering: 
 For the clustering, I had created two groups of features ;
-<b>Group 1 (numeric variables alone) :</b>
+Group 1 (numeric variables alone) :
 - Average order value
 - Consumer LTV
 - Discount
@@ -34,18 +36,19 @@ For the clustering, I had created two groups of features ;
 - Line SKU Production Cost
 - Net Sales
 - Total order value
-<b>Group 2:</b>
+Group 2:
 I used the features in the group1 and added some categorical variables ;
 - Gender
 - Age Range
 - Line Category.
  
-<b>Deciding the number of clusters:</b> Elbow Method
+Deciding the number of clusters:
+Elbow Method
  
-<b>Model Evaluation</b>:
-I used sillouette score evaluate the clustering.
+Model Evaluation:
+Sillouette score evaluate the clustering.
  
-<b>Clustering Insights</b>:
+Clustering Insights:
  
 In both gender categories, there is a segment that are at the very bottom <strong>(cluster 1)</strong>. That is, they often purchase products with lower net sales.
 - Next, <strong>cluster 2</strong>, with a net sale between £1000- £2500.
