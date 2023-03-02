@@ -45,16 +45,16 @@ I used the features in the group1 and added some categorical variables ;
 Deciding the number of clusters:
 Elbow Method
  
-Model Evaluation:
+<strong>Model Evaluation:</strong>
 Sillouette score evaluate the clustering.
  
-Clustering Insights:
+<strong>Clustering Insights:</strong>
  
 In both gender categories, there is a segment that are at the very bottom <strong>(cluster 1)</strong>. That is, they often purchase products with lower net sales.
 - Next, <strong>cluster 2</strong>, with a net sale between £1000- £2500.
 - The third segment, <strong>cluster 3</strong>,in the female categories often purchase products with net sales from about £3500 to above £7000. Interestingly,this segment is not present in the male category.
 - Lastly, the <strong>cluster 2</strong> have a bit of spread. They intersect with some members of cluster 2. However, they range from net sales £1500 to nearly £3200 in the female gender. Within the male category, the net sale sis around £2000.
  
-<b>Further Work:</b>
+<strong>Further Work:</strong>
   
 The next phase of the project will be to do another exploratory data analysis using the clusters/segments and creating a #tableau #dashboard.
