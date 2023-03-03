@@ -2,7 +2,8 @@
 
 
 <strong>Aim:</strong> 
-The aim of this project is to look at customers in-depth and make a machine-learning model that can put them into groups without being watched.
+
+The aim of this project is to perform an in-depth analysis on product information and segment the customers using an unsupervised machine-learning model.
  
 <strong>Application Used: </strong>
 Python Language
@@ -18,7 +19,7 @@ The first thing I did was check the missing values, confirm the data types, and 
 Please see the notebook for the data insights.
 
 <strong>Clustering:</strong> 
-For the clustering, I had created two groups of features ;
+For the clustering, I created two groups of features ;
 
 Group 1 (numeric variables alone) :
 - Average order value
@@ -50,4 +51,4 @@ In both gender categories, there is a segment that are at the very bottom <stron
 
 <strong>Further Work:</strong>
   
-The next phase of the project will be to do another exploratory data analysis using the clusters/segments and creating a Tableau dashboard.
+The next phase of the project is to perform an explanatory data analysis using the clusters/segments and creating an interactive Tableau dashboard.
